@@ -10,6 +10,12 @@ Make a simple webserver.
 Contributors / Licensing
 ========================
 
+Contributed with Kyle Bricker - kbricker
+
+References:
+    https://www.programiz.com/python-programming/methods/string/endswith
+    https://www.geeksforgeeks.org/with-statement-in-python/
+
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 server.py contains contributions from:
